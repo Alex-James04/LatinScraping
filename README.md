@@ -2,7 +2,8 @@
 
 ### Overview
 - This project uses the Beautiful Soup Python library to scrape data from PHI Latin Texts (https://latin.packhum.org/browse). 
-- The resulting parquet file in this repo contains ~1.8 million entries, with each row containing the total instances of a word per text per author, as well as a link to the text being referred to.
+- The resulting main parquet file in this repo contains ~1.8 million entries each, with each row containing the total instances of a word per text per author, as well as a link to the text being referred to.
+- The additional data-analysis parquet files manipulate the main parquet file to get key values relating to word frequency and diversity.
 - The Power BI report linked below and included in the repo is a basic display of the scraped data, showing the number of times each word is used across the whole site, the total words by text, and the total words by author.
 
 ### Additional Information
