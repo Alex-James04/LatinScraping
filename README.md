@@ -10,6 +10,10 @@
 - I attempted this project in order to gain familiarity with common web scraping tools, learn how to publish a basic Power BI report, and because it combines two of my vastly different areas of interest - computer/data science and Latin.
 - If there are any concerns (i.e. the Power BI link doesn't work) or suggestions (i.e. ideas for more extensive analysis) for this project, please email me below.
 
+### Future Applications
+- This project could be the basis for a machine learning algorithm that identifies underlying patterns in authors' writing styles.
+- An application of this could be identifying who wrote newly-discovered texts, although in order to realistically do this more inter-word data would be needed (word combination patterns, word order patterns, etc.).
+
 ### View Power BI report here:
 Power BI Report: https://app.powerbi.com/view?r=eyJrIjoiNGYxZDQzNzQtOTU1NC00YzUwLWEwYTEtZTUxZTZiMDhjZDEzIiwidCI6IjdiMzQ4MGM3LTM3MDctNDg3My04Yjc3LWUyMTY3MzNhNjVhYyIsImMiOjF9
 
