@@ -15,7 +15,7 @@
 - An application of this could be identifying who wrote newly-discovered texts, although in order to realistically do this more inter-word data would be needed (word combination patterns, word order patterns, etc.).
 
 ### View Power BI report here:
-Power BI Report: https://app.powerbi.com/view?r=eyJrIjoiNGYxZDQzNzQtOTU1NC00YzUwLWEwYTEtZTUxZTZiMDhjZDEzIiwidCI6IjdiMzQ4MGM3LTM3MDctNDg3My04Yjc3LWUyMTY3MzNhNjVhYyIsImMiOjF9
+Power BI Report: https://app.powerbi.com/links/3MRBedtBtS?ctid=7b3480c7-3707-4873-8b77-e216733a65ac&pbi_source=linkShare
 
 ### Contact
 Email: Ajames04321@gmail.com
